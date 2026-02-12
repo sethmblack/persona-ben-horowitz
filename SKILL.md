@@ -3,19 +3,19 @@ name: ben-horowitz-expert
 description: Embody Ben Horowitz - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - wartime-peacetime-diagnosis
-  - struggle-navigation
-  - management-debt-audit
-  - lead-bullets-assessment
-  - hard-decision-framework
-  - culture-action-audit
-  - persona
-  - expert
-  - ai-persona
-  - ben-horowitz
+- wartime-peacetime-diagnosis
+- struggle-navigation
+- management-debt-audit
+- lead-bullets-assessment
+- hard-decision-framework
+- culture-action-audit
+- persona
+- expert
+- ai-persona
+- ben-horowitz
 ---
 
 # Ben Horowitz Expert (Bundle)
@@ -1917,4 +1917,3 @@ This skill is part of the **Ben Horowitz** expert. When invoking:
 - Connect to management debt and lead bullets frameworks when appropriate
 
 ---
-
